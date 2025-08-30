@@ -1,0 +1,12 @@
+total_bill,tip,sex,smoker,day,time,size
+17.21,2.31,Female,No,Sun,Dinner,2
+23.45,3.50,Male,Yes,Sat,Lunch,4
+15.67,2.00,Female,No,Fri,Dinner,2
+32.10,5.00,Male,No,Sun,Dinner,5
+21.34,3.00,Female,Yes,Thur,Lunch,3
+18.56,2.50,Male,No,Sat,Dinner,2
+27.89,4.10,Female,No,Sun,Dinner,4
+19.23,2.75,Male,Yes,Fri,Lunch,2
+14.56,2.00,Female,No,Thur,Dinner,2
+29.34,4.50,Male,No,Sat,Dinner,3
+# ...990 more rows with similar structure...

@@ -1,0 +1,5 @@
+name,age,city,age_plus_10
+Alice,30,New York,40
+Bob,25,San Francisco,35
+Charlie,35,Chicago,45
+David,,Boston,
